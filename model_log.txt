@@ -1,0 +1,807 @@
+
+[Siamese========lapjv========Size512*3========Epoch450========MultiThreads]
+
+Epoch===================================================================>10
+
+[Siamese========lapjv========Size512*3========Epoch450========MultiThreads]
+
+Epoch===================================================================>10
+
+[Siamese========lapjv========Size512*3========Epoch450========MultiThreads]
+
+Epoch===================================================================>10
+
+[Siamese========lapjv========Size512*3========Epoch450========MultiThreads]
+
+Epoch===================================================================>10
+.Epoch 1/10 - loss: 0.6562 - binary_crossentropy: 0.6562 - acc: 0.5980
+Epoch 2/10 - loss: 0.5487 - binary_crossentropy: 0.5487 - acc: 0.7192
+Epoch 3/10 - loss: 0.4739 - binary_crossentropy: 0.4739 - acc: 0.7750
+Epoch 4/10 - loss: 0.4174 - binary_crossentropy: 0.4174 - acc: 0.8063
+Epoch 5/10 - loss: 0.3865 - binary_crossentropy: 0.3865 - acc: 0.8253
+Epoch 6/10 - loss: 0.3589 - binary_crossentropy: 0.3589 - acc: 0.8396
+Epoch 7/10 - loss: 0.3298 - binary_crossentropy: 0.3298 - acc: 0.8554
+Epoch 8/10 - loss: 0.3079 - binary_crossentropy: 0.3079 - acc: 0.8674
+Epoch 9/10 - loss: 0.2869 - binary_crossentropy: 0.2869 - acc: 0.8787
+Epoch 10/10 - loss: 0.2778 - binary_crossentropy: 0.2778 - acc: 0.8814
+Epoch 10, lr: 0.00064000
+
+.Epoch 11/15 - loss: 0.4912 - binary_crossentropy: 0.4912 - acc: 0.7570
+Epoch 12/15 - loss: 0.4166 - binary_crossentropy: 0.4166 - acc: 0.8033
+Epoch 13/15 - loss: 0.3572 - binary_crossentropy: 0.3572 - acc: 0.8401
+Epoch 14/15 - loss: 0.3143 - binary_crossentropy: 0.3143 - acc: 0.8602
+Epoch 15/15 - loss: 0.2779 - binary_crossentropy: 0.2779 - acc: 0.8796
+Epoch 15, lr: 0.00064000
+
+.Epoch 16/20 - loss: 0.4176 - binary_crossentropy: 0.4176 - acc: 0.8046
+Epoch 17/20 - loss: 0.3498 - binary_crossentropy: 0.3498 - acc: 0.8448
+Epoch 18/20 - loss: 0.3034 - binary_crossentropy: 0.3034 - acc: 0.8688
+Epoch 19/20 - loss: 0.2738 - binary_crossentropy: 0.2738 - acc: 0.8831
+Epoch 20/20 - loss: 0.2403 - binary_crossentropy: 0.2403 - acc: 0.9003
+Epoch 20, lr: 0.00064000
+
+
+Epoch===================================================================>110.Epoch 21/25 - loss: 0.5006 - binary_crossentropy: 0.5006 - acc: 0.7575
+Epoch 22/25 - loss: 0.4447 - binary_crossentropy: 0.4447 - acc: 0.7909
+Epoch 23/25 - loss: 0.4075 - binary_crossentropy: 0.4075 - acc: 0.8151
+Epoch 24/25 - loss: 0.3729 - binary_crossentropy: 0.3729 - acc: 0.8326
+Epoch 25/25 - loss: 0.3490 - binary_crossentropy: 0.3490 - acc: 0.8443
+Epoch 25, lr: 0.00064000
+
+.Epoch 26/30 - loss: 0.4136 - binary_crossentropy: 0.4136 - acc: 0.8093
+Epoch 27/30 - loss: 0.3462 - binary_crossentropy: 0.3462 - acc: 0.8502
+Epoch 28/30 - loss: 0.3238 - binary_crossentropy: 0.3238 - acc: 0.8614
+Epoch 29/30 - loss: 0.3003 - binary_crossentropy: 0.3003 - acc: 0.8715
+Epoch 30/30 - loss: 0.2859 - binary_crossentropy: 0.2859 - acc: 0.8787
+Epoch 30, lr: 0.00064000
+
+.Epoch 31/35 - loss: 0.3820 - binary_crossentropy: 0.3820 - acc: 0.8307
+Epoch 32/35 - loss: 0.3148 - binary_crossentropy: 0.3148 - acc: 0.8624
+Epoch 33/35 - loss: 0.2918 - binary_crossentropy: 0.2918 - acc: 0.8741
+Epoch 34/35 - loss: 0.2633 - binary_crossentropy: 0.2633 - acc: 0.8883
+Epoch 35/35 - loss: 0.2536 - binary_crossentropy: 0.2536 - acc: 0.8937
+Epoch 35, lr: 0.00064000
+
+.Epoch 36/40 - loss: 0.3605 - binary_crossentropy: 0.3605 - acc: 0.8408
+Epoch 37/40 - loss: 0.2944 - binary_crossentropy: 0.2944 - acc: 0.8733
+Epoch 38/40 - loss: 0.2661 - binary_crossentropy: 0.2661 - acc: 0.8876
+Epoch 39/40 - loss: 0.2507 - binary_crossentropy: 0.2507 - acc: 0.8950
+Epoch 40/40 - loss: 0.2317 - binary_crossentropy: 0.2317 - acc: 0.9035
+Epoch 40, lr: 0.00064000
+
+.Epoch 41/45 - loss: 0.3244 - binary_crossentropy: 0.3244 - acc: 0.8602
+Epoch 42/45 - loss: 0.2584 - binary_crossentropy: 0.2584 - acc: 0.8911
+Epoch 43/45 - loss: 0.2421 - binary_crossentropy: 0.2421 - acc: 0.8970
+Epoch 44/45 - loss: 0.2254 - binary_crossentropy: 0.2254 - acc: 0.9077
+Epoch 45/45 - loss: 0.2206 - binary_crossentropy: 0.2206 - acc: 0.9067
+Epoch 45, lr: 0.00064000
+
+.Epoch 46/50 - loss: 0.3133 - binary_crossentropy: 0.3133 - acc: 0.8631
+Epoch 47/50 - loss: 0.2495 - binary_crossentropy: 0.2495 - acc: 0.8954
+Epoch 48/50 - loss: 0.2296 - binary_crossentropy: 0.2296 - acc: 0.9048
+Epoch 49/50 - loss: 0.2109 - binary_crossentropy: 0.2109 - acc: 0.9123
+Epoch 50/50 - loss: 0.2004 - binary_crossentropy: 0.2004 - acc: 0.9174
+Epoch 50, lr: 0.00064000
+
+.Epoch 51/55 - loss: 0.2880 - binary_crossentropy: 0.2880 - acc: 0.8785
+Epoch 52/55 - loss: 0.2283 - binary_crossentropy: 0.2283 - acc: 0.9053
+Epoch 53/55 - loss: 0.2093 - binary_crossentropy: 0.2093 - acc: 0.9128
+Epoch 54/55 - loss: 0.1964 - binary_crossentropy: 0.1964 - acc: 0.9185
+Epoch 55/55 - loss: 0.1846 - binary_crossentropy: 0.1846 - acc: 0.9237
+Epoch 55, lr: 0.00064000
+
+.Epoch 56/60 - loss: 0.2722 - binary_crossentropy: 0.2722 - acc: 0.8849
+Epoch 57/60 - loss: 0.2186 - binary_crossentropy: 0.2186 - acc: 0.9099
+Epoch 58/60 - loss: 0.1987 - binary_crossentropy: 0.1987 - acc: 0.9184
+Epoch 59/60 - loss: 0.1846 - binary_crossentropy: 0.1846 - acc: 0.9237
+Epoch 60/60 - loss: 0.1731 - binary_crossentropy: 0.1731 - acc: 0.9280
+Epoch 60, lr: 0.00064000
+
+.Epoch 61/65 - loss: 0.2663 - binary_crossentropy: 0.2663 - acc: 0.8889
+Epoch 62/65 - loss: 0.2132 - binary_crossentropy: 0.2132 - acc: 0.9129
+Epoch 63/65 - loss: 0.1881 - binary_crossentropy: 0.1881 - acc: 0.9217
+Epoch 64/65 - loss: 0.1766 - binary_crossentropy: 0.1766 - acc: 0.9260
+Epoch 65/65 - loss: 0.1650 - binary_crossentropy: 0.1650 - acc: 0.9328
+Epoch 65, lr: 0.00064000
+
+.Epoch 66/70 - loss: 0.2387 - binary_crossentropy: 0.2387 - acc: 0.9008
+Epoch 67/70 - loss: 0.1892 - binary_crossentropy: 0.1892 - acc: 0.9233
+Epoch 68/70 - loss: 0.1719 - binary_crossentropy: 0.1719 - acc: 0.9293
+Epoch 69/70 - loss: 0.1514 - binary_crossentropy: 0.1514 - acc: 0.9398
+Epoch 70/70 - loss: 0.1443 - binary_crossentropy: 0.1443 - acc: 0.9416
+Epoch 70, lr: 0.00064000
+
+.Epoch 71/75 - loss: 0.2507 - binary_crossentropy: 0.2507 - acc: 0.8951
+Epoch 72/75 - loss: 0.1950 - binary_crossentropy: 0.1950 - acc: 0.9195
+Epoch 73/75 - loss: 0.1823 - binary_crossentropy: 0.1823 - acc: 0.9274
+Epoch 74/75 - loss: 0.1672 - binary_crossentropy: 0.1672 - acc: 0.9327
+Epoch 75/75 - loss: 0.1575 - binary_crossentropy: 0.1575 - acc: 0.9354
+Epoch 75, lr: 0.00064000
+
+.Epoch 76/80 - loss: 0.2273 - binary_crossentropy: 0.2273 - acc: 0.9051
+Epoch 77/80 - loss: 0.1736 - binary_crossentropy: 0.1736 - acc: 0.9292
+Epoch 78/80 - loss: 0.1582 - binary_crossentropy: 0.1582 - acc: 0.9352
+Epoch 79/80 - loss: 0.1359 - binary_crossentropy: 0.1359 - acc: 0.9445
+Epoch 80/80 - loss: 0.1231 - binary_crossentropy: 0.1231 - acc: 0.9516
+Epoch 80, lr: 0.00064000
+
+.Epoch 81/85 - loss: 0.2043 - binary_crossentropy: 0.2043 - acc: 0.9165
+Epoch 82/85 - loss: 0.1673 - binary_crossentropy: 0.1673 - acc: 0.9316
+Epoch 83/85 - loss: 0.1517 - binary_crossentropy: 0.1517 - acc: 0.9395
+Epoch 84/85 - loss: 0.1410 - binary_crossentropy: 0.1410 - acc: 0.9440
+Epoch 85/85 - loss: 0.1373 - binary_crossentropy: 0.1373 - acc: 0.9453
+Epoch 85, lr: 0.00064000
+
+.Epoch 86/90 - loss: 0.2028 - binary_crossentropy: 0.2028 - acc: 0.9169
+Epoch 87/90 - loss: 0.1602 - binary_crossentropy: 0.1602 - acc: 0.9352
+Epoch 88/90 - loss: 0.1453 - binary_crossentropy: 0.1453 - acc: 0.9403
+Epoch 89/90 - loss: 0.1319 - binary_crossentropy: 0.1319 - acc: 0.9468
+Epoch 90/90 - loss: 0.1211 - binary_crossentropy: 0.1211 - acc: 0.9520
+Epoch 90, lr: 0.00064000
+
+.Epoch 91/95 - loss: 0.2016 - binary_crossentropy: 0.2016 - acc: 0.9174
+Epoch 92/95 - loss: 0.1568 - binary_crossentropy: 0.1568 - acc: 0.9352
+Epoch 93/95 - loss: 0.1395 - binary_crossentropy: 0.1395 - acc: 0.9444
+Epoch 94/95 - loss: 0.1249 - binary_crossentropy: 0.1249 - acc: 0.9504
+Epoch 95/95 - loss: 0.1186 - binary_crossentropy: 0.1186 - acc: 0.9507
+Epoch 95, lr: 0.00064000
+
+.Epoch 96/100 - loss: 0.2016 - binary_crossentropy: 0.2016 - acc: 0.9172
+Epoch 97/100 - loss: 0.1531 - binary_crossentropy: 0.1531 - acc: 0.9383
+Epoch 98/100 - loss: 0.1343 - binary_crossentropy: 0.1343 - acc: 0.9446
+Epoch 99/100 - loss: 0.1186 - binary_crossentropy: 0.1186 - acc: 0.9524
+Epoch 100/100 - loss: 0.1130 - binary_crossentropy: 0.1130 - acc: 0.9550
+Epoch 100, lr: 0.00064000
+
+.Epoch 101/105 - loss: 0.1884 - binary_crossentropy: 0.1884 - acc: 0.9227
+Epoch 102/105 - loss: 0.1430 - binary_crossentropy: 0.1430 - acc: 0.9411
+Epoch 103/105 - loss: 0.1173 - binary_crossentropy: 0.1173 - acc: 0.9534
+Epoch 104/105 - loss: 0.1025 - binary_crossentropy: 0.1025 - acc: 0.9587
+Epoch 105/105 - loss: 0.0923 - binary_crossentropy: 0.0923 - acc: 0.9626
+Epoch 105, lr: 0.00064000
+
+.Epoch 106/110 - loss: 0.1831 - binary_crossentropy: 0.1831 - acc: 0.9261
+Epoch 107/110 - loss: 0.1381 - binary_crossentropy: 0.1381 - acc: 0.9438
+Epoch 108/110 - loss: 0.1166 - binary_crossentropy: 0.1166 - acc: 0.9548
+Epoch 109/110 - loss: 0.1093 - binary_crossentropy: 0.1093 - acc: 0.9569
+Epoch 110/110 - loss: 0.0980 - binary_crossentropy: 0.0980 - acc: 0.9602
+Epoch 110, lr: 0.00064000
+
+.Epoch 1/10 - loss: 0.6969 - binary_crossentropy: 0.6969 - acc: 0.5645
+Epoch 2/10 - loss: 0.5779 - binary_crossentropy: 0.5779 - acc: 0.6881
+Epoch 3/10 - loss: 0.4868 - binary_crossentropy: 0.4868 - acc: 0.7648
+Epoch 4/10 - loss: 0.4456 - binary_crossentropy: 0.4456 - acc: 0.7938
+Epoch 5/10 - loss: 0.4094 - binary_crossentropy: 0.4094 - acc: 0.8139
+Epoch 6/10 - loss: 0.3800 - binary_crossentropy: 0.3800 - acc: 0.8288
+Epoch 7/10 - loss: 0.3607 - binary_crossentropy: 0.3607 - acc: 0.8380
+Epoch 8/10 - loss: 0.3217 - binary_crossentropy: 0.3217 - acc: 0.8606
+Epoch 9/10 - loss: 0.3039 - binary_crossentropy: 0.3039 - acc: 0.8686
+Epoch 10/10 - loss: 0.2881 - binary_crossentropy: 0.2881 - acc: 0.8774
+Epoch 10, lr: 0.00064000
+
+.Epoch 11/15 - loss: 0.4788 - binary_crossentropy: 0.4788 - acc: 0.7675
+Epoch 12/15 - loss: 0.3967 - binary_crossentropy: 0.3967 - acc: 0.8167
+Epoch 13/15 - loss: 0.3336 - binary_crossentropy: 0.3336 - acc: 0.8532
+Epoch 14/15 - loss: 0.2940 - binary_crossentropy: 0.2940 - acc: 0.8701
+Epoch 15/15 - loss: 0.2688 - binary_crossentropy: 0.2688 - acc: 0.8824
+Epoch 15, lr: 0.00064000
+
+.Epoch 16/20 - loss: 0.4159 - binary_crossentropy: 0.4159 - acc: 0.8030
+Epoch 17/20 - loss: 0.3360 - binary_crossentropy: 0.3360 - acc: 0.8461
+Epoch 18/20 - loss: 0.2867 - binary_crossentropy: 0.2867 - acc: 0.8726
+Epoch 19/20 - loss: 0.2471 - binary_crossentropy: 0.2471 - acc: 0.8931
+Epoch 20/20 - loss: 0.2115 - binary_crossentropy: 0.2115 - acc: 0.9116
+Epoch 20, lr: 0.00064000
+
+
+Epoch===================================================================>110.Epoch 21/25 - loss: 0.4748 - binary_crossentropy: 0.4748 - acc: 0.7711
+Epoch 22/25 - loss: 0.4065 - binary_crossentropy: 0.4065 - acc: 0.8125
+Epoch 23/25 - loss: 0.3727 - binary_crossentropy: 0.3727 - acc: 0.8323
+Epoch 24/25 - loss: 0.3489 - binary_crossentropy: 0.3489 - acc: 0.8457
+Epoch 25/25 - loss: 0.3316 - binary_crossentropy: 0.3316 - acc: 0.8558
+Epoch 25, lr: 0.00064000
+
+.Epoch 26/30 - loss: 0.4016 - binary_crossentropy: 0.4016 - acc: 0.8150
+Epoch 27/30 - loss: 0.3371 - binary_crossentropy: 0.3371 - acc: 0.8527
+Epoch 28/30 - loss: 0.3109 - binary_crossentropy: 0.3109 - acc: 0.8675
+Epoch 29/30 - loss: 0.2905 - binary_crossentropy: 0.2905 - acc: 0.8761
+Epoch 30/30 - loss: 0.2754 - binary_crossentropy: 0.2754 - acc: 0.8839
+Epoch 30, lr: 0.00064000
+
+.Epoch 31/35 - loss: 0.3891 - binary_crossentropy: 0.3891 - acc: 0.8221
+Epoch 32/35 - loss: 0.3213 - binary_crossentropy: 0.3213 - acc: 0.8596
+Epoch 33/35 - loss: 0.2926 - binary_crossentropy: 0.2926 - acc: 0.8734
+Epoch 34/35 - loss: 0.2726 - binary_crossentropy: 0.2726 - acc: 0.8831
+Epoch 35/35 - loss: 0.2510 - binary_crossentropy: 0.2510 - acc: 0.8939
+Epoch 35, lr: 0.00064000
+
+.Epoch 36/40 - loss: 0.3108 - binary_crossentropy: 0.3108 - acc: 0.8642
+Epoch 37/40 - loss: 0.2546 - binary_crossentropy: 0.2546 - acc: 0.8921
+Epoch 38/40 - loss: 0.2291 - binary_crossentropy: 0.2291 - acc: 0.9053
+Epoch 39/40 - loss: 0.2106 - binary_crossentropy: 0.2106 - acc: 0.9128
+Epoch 40/40 - loss: 0.2042 - binary_crossentropy: 0.2042 - acc: 0.9143
+Epoch 40, lr: 0.00064000
+
+.Epoch 41/45 - loss: 0.3160 - binary_crossentropy: 0.3160 - acc: 0.8643
+Epoch 42/45 - loss: 0.2547 - binary_crossentropy: 0.2547 - acc: 0.8928
+Epoch 43/45 - loss: 0.2272 - binary_crossentropy: 0.2272 - acc: 0.9048
+Epoch 44/45 - loss: 0.2127 - binary_crossentropy: 0.2127 - acc: 0.9119
+Epoch 45/45 - loss: 0.1992 - binary_crossentropy: 0.1992 - acc: 0.9171
+Epoch 45, lr: 0.00064000
+
+.Epoch 46/50 - loss: 0.2742 - binary_crossentropy: 0.2742 - acc: 0.8832
+Epoch 47/50 - loss: 0.2171 - binary_crossentropy: 0.2171 - acc: 0.9115
+Epoch 48/50 - loss: 0.1984 - binary_crossentropy: 0.1984 - acc: 0.9177
+Epoch 49/50 - loss: 0.1860 - binary_crossentropy: 0.1860 - acc: 0.9230
+Epoch 50/50 - loss: 0.1725 - binary_crossentropy: 0.1725 - acc: 0.9291
+Epoch 50, lr: 0.00064000
+
+.Epoch 51/55 - loss: 0.2765 - binary_crossentropy: 0.2765 - acc: 0.8831
+Epoch 52/55 - loss: 0.2247 - binary_crossentropy: 0.2247 - acc: 0.9072
+Epoch 53/55 - loss: 0.2047 - binary_crossentropy: 0.2047 - acc: 0.9141
+Epoch 54/55 - loss: 0.1882 - binary_crossentropy: 0.1882 - acc: 0.9224
+Epoch 55/55 - loss: 0.1729 - binary_crossentropy: 0.1729 - acc: 0.9291
+Epoch 55, lr: 0.00064000
+
+.Epoch 56/60 - loss: 0.2340 - binary_crossentropy: 0.2340 - acc: 0.9038
+Epoch 57/60 - loss: 0.1894 - binary_crossentropy: 0.1894 - acc: 0.9214
+Epoch 58/60 - loss: 0.1711 - binary_crossentropy: 0.1711 - acc: 0.9313
+Epoch 59/60 - loss: 0.1579 - binary_crossentropy: 0.1579 - acc: 0.9339
+Epoch 60/60 - loss: 0.1478 - binary_crossentropy: 0.1478 - acc: 0.9400
+Epoch 60, lr: 0.00064000
+
+.Epoch 61/65 - loss: 0.2444 - binary_crossentropy: 0.2444 - acc: 0.8958
+Epoch 62/65 - loss: 0.1898 - binary_crossentropy: 0.1898 - acc: 0.9232
+Epoch 63/65 - loss: 0.1663 - binary_crossentropy: 0.1663 - acc: 0.9320
+Epoch 64/65 - loss: 0.1526 - binary_crossentropy: 0.1526 - acc: 0.9375
+Epoch 65/65 - loss: 0.1349 - binary_crossentropy: 0.1349 - acc: 0.9461
+Epoch 65, lr: 0.00064000
+
+.Epoch 66/70 - loss: 0.2169 - binary_crossentropy: 0.2169 - acc: 0.9120
+Epoch 67/70 - loss: 0.1713 - binary_crossentropy: 0.1713 - acc: 0.9301
+Epoch 68/70 - loss: 0.1561 - binary_crossentropy: 0.1561 - acc: 0.9373
+Epoch 69/70 - loss: 0.1393 - binary_crossentropy: 0.1393 - acc: 0.9452
+Epoch 70/70 - loss: 0.1300 - binary_crossentropy: 0.1300 - acc: 0.9473
+Epoch 70, lr: 0.00064000
+
+.Epoch 71/75 - loss: 0.2141 - binary_crossentropy: 0.2141 - acc: 0.9130
+Epoch 72/75 - loss: 0.1665 - binary_crossentropy: 0.1665 - acc: 0.9310
+Epoch 73/75 - loss: 0.1485 - binary_crossentropy: 0.1485 - acc: 0.9408
+Epoch 74/75 - loss: 0.1339 - binary_crossentropy: 0.1339 - acc: 0.9469
+Epoch 75/75 - loss: 0.1230 - binary_crossentropy: 0.1230 - acc: 0.9496
+Epoch 75, lr: 0.00064000
+
+.Epoch 76/80 - loss: 0.1878 - binary_crossentropy: 0.1878 - acc: 0.9248
+Epoch 77/80 - loss: 0.1419 - binary_crossentropy: 0.1419 - acc: 0.9438
+Epoch 78/80 - loss: 0.1302 - binary_crossentropy: 0.1302 - acc: 0.9476
+Epoch 79/80 - loss: 0.1179 - binary_crossentropy: 0.1179 - acc: 0.9527
+Epoch 80/80 - loss: 0.1164 - binary_crossentropy: 0.1164 - acc: 0.9538
+Epoch 80, lr: 0.00064000
+
+.Epoch 81/85 - loss: 0.1917 - binary_crossentropy: 0.1917 - acc: 0.9225
+Epoch 82/85 - loss: 0.1511 - binary_crossentropy: 0.1511 - acc: 0.9393
+Epoch 83/85 - loss: 0.1334 - binary_crossentropy: 0.1334 - acc: 0.9457
+Epoch 84/85 - loss: 0.1173 - binary_crossentropy: 0.1173 - acc: 0.9540
+Epoch 85/85 - loss: 0.1132 - binary_crossentropy: 0.1132 - acc: 0.9546
+Epoch 85, lr: 0.00064000
+
+.Epoch 86/90 - loss: 0.1751 - binary_crossentropy: 0.1751 - acc: 0.9293
+Epoch 87/90 - loss: 0.1420 - binary_crossentropy: 0.1420 - acc: 0.9456
+Epoch 88/90 - loss: 0.1200 - binary_crossentropy: 0.1200 - acc: 0.9518
+Epoch 89/90 - loss: 0.1097 - binary_crossentropy: 0.1097 - acc: 0.9559
+Epoch 90/90 - loss: 0.1059 - binary_crossentropy: 0.1059 - acc: 0.9567
+Epoch 90, lr: 0.00064000
+
+.Epoch 91/95 - loss: 0.1706 - binary_crossentropy: 0.1706 - acc: 0.9305
+Epoch 92/95 - loss: 0.1291 - binary_crossentropy: 0.1291 - acc: 0.9508
+Epoch 93/95 - loss: 0.1135 - binary_crossentropy: 0.1135 - acc: 0.9559
+Epoch 94/95 - loss: 0.1004 - binary_crossentropy: 0.1004 - acc: 0.9601
+Epoch 95/95 - loss: 0.0926 - binary_crossentropy: 0.0926 - acc: 0.9631
+Epoch 95, lr: 0.00064000
+
+.Epoch 96/100 - loss: 0.1722 - binary_crossentropy: 0.1722 - acc: 0.9307
+Epoch 97/100 - loss: 0.1279 - binary_crossentropy: 0.1279 - acc: 0.9484
+Epoch 98/100 - loss: 0.1081 - binary_crossentropy: 0.1081 - acc: 0.9581
+Epoch 99/100 - loss: 0.0941 - binary_crossentropy: 0.0941 - acc: 0.9626
+Epoch 100/100 - loss: 0.0886 - binary_crossentropy: 0.0886 - acc: 0.9651
+Epoch 100, lr: 0.00064000
+
+.Epoch 101/105 - loss: 0.1606 - binary_crossentropy: 0.1606 - acc: 0.9369
+Epoch 102/105 - loss: 0.1202 - binary_crossentropy: 0.1202 - acc: 0.9528
+Epoch 103/105 - loss: 0.1062 - binary_crossentropy: 0.1062 - acc: 0.9590
+Epoch 104/105 - loss: 0.1001 - binary_crossentropy: 0.1001 - acc: 0.9608
+Epoch 105/105 - loss: 0.0869 - binary_crossentropy: 0.0869 - acc: 0.9668
+Epoch 105, lr: 0.00064000
+
+.Epoch 106/110 - loss: 0.1569 - binary_crossentropy: 0.1569 - acc: 0.9363
+Epoch 107/110 - loss: 0.1050 - binary_crossentropy: 0.1050 - acc: 0.9574
+Epoch 108/110 - loss: 0.0869 - binary_crossentropy: 0.0869 - acc: 0.9652
+Epoch 109/110 - loss: 0.0738 - binary_crossentropy: 0.0738 - acc: 0.9704
+Epoch 110/110 - loss: 0.0645 - binary_crossentropy: 0.0645 - acc: 0.9741
+Epoch 110, lr: 0.00064000
+
+
+Epoch===================================================================>160.Epoch 111/115 - loss: 0.1492 - binary_crossentropy: 0.1492 - acc: 0.9415
+Epoch 112/115 - loss: 0.0930 - binary_crossentropy: 0.0930 - acc: 0.9651
+Epoch 113/115 - loss: 0.0729 - binary_crossentropy: 0.0729 - acc: 0.9728
+Epoch 114/115 - loss: 0.0590 - binary_crossentropy: 0.0590 - acc: 0.9787
+Epoch 115/115 - loss: 0.0458 - binary_crossentropy: 0.0458 - acc: 0.9824
+Epoch 115, lr: 0.00016000
+
+.Epoch 116/120 - loss: 0.1160 - binary_crossentropy: 0.1160 - acc: 0.9555
+Epoch 117/120 - loss: 0.0726 - binary_crossentropy: 0.0726 - acc: 0.9725
+Epoch 118/120 - loss: 0.0467 - binary_crossentropy: 0.0467 - acc: 0.9814
+Epoch 119/120 - loss: 0.0380 - binary_crossentropy: 0.0380 - acc: 0.9855
+Epoch 120/120 - loss: 0.0289 - binary_crossentropy: 0.0289 - acc: 0.9887
+Epoch 120, lr: 0.00016000
+
+.Epoch 121/125 - loss: 0.1115 - binary_crossentropy: 0.1115 - acc: 0.9576
+Epoch 122/125 - loss: 0.0791 - binary_crossentropy: 0.0791 - acc: 0.9712
+Epoch 123/125 - loss: 0.0563 - binary_crossentropy: 0.0563 - acc: 0.9790
+Epoch 124/125 - loss: 0.0462 - binary_crossentropy: 0.0462 - acc: 0.9825
+Epoch 125/125 - loss: 0.0413 - binary_crossentropy: 0.0413 - acc: 0.9846
+Epoch 125, lr: 0.00016000
+
+.Epoch 126/130 - loss: 0.0982 - binary_crossentropy: 0.0982 - acc: 0.9641
+Epoch 127/130 - loss: 0.0557 - binary_crossentropy: 0.0557 - acc: 0.9787
+Epoch 128/130 - loss: 0.0357 - binary_crossentropy: 0.0357 - acc: 0.9853
+Epoch 129/130 - loss: 0.0265 - binary_crossentropy: 0.0265 - acc: 0.9901
+Epoch 130/130 - loss: 0.0196 - binary_crossentropy: 0.0196 - acc: 0.9919
+Epoch 130, lr: 0.00016000
+
+.Epoch 131/135 - loss: 0.0954 - binary_crossentropy: 0.0954 - acc: 0.9650
+Epoch 132/135 - loss: 0.0673 - binary_crossentropy: 0.0673 - acc: 0.9757
+Epoch 133/135 - loss: 0.0456 - binary_crossentropy: 0.0456 - acc: 0.9830
+Epoch 134/135 - loss: 0.0391 - binary_crossentropy: 0.0391 - acc: 0.9855
+Epoch 135/135 - loss: 0.0328 - binary_crossentropy: 0.0328 - acc: 0.9880
+Epoch 135, lr: 0.00016000
+
+.Epoch 136/140 - loss: 0.0844 - binary_crossentropy: 0.0844 - acc: 0.9688
+Epoch 137/140 - loss: 0.0521 - binary_crossentropy: 0.0521 - acc: 0.9803
+Epoch 138/140 - loss: 0.0326 - binary_crossentropy: 0.0326 - acc: 0.9881
+Epoch 139/140 - loss: 0.0237 - binary_crossentropy: 0.0237 - acc: 0.9913
+Epoch 140/140 - loss: 0.0191 - binary_crossentropy: 0.0191 - acc: 0.9922
+Epoch 140, lr: 0.00016000
+
+.Epoch 141/145 - loss: 0.0903 - binary_crossentropy: 0.0903 - acc: 0.9673
+Epoch 142/145 - loss: 0.0545 - binary_crossentropy: 0.0545 - acc: 0.9800
+Epoch 143/145 - loss: 0.0422 - binary_crossentropy: 0.0422 - acc: 0.9847
+Epoch 144/145 - loss: 0.0308 - binary_crossentropy: 0.0308 - acc: 0.9884
+Epoch 145/145 - loss: 0.0249 - binary_crossentropy: 0.0249 - acc: 0.9906
+Epoch 145, lr: 0.00016000
+
+.Epoch 146/150 - loss: 0.0797 - binary_crossentropy: 0.0797 - acc: 0.9708
+Epoch 147/150 - loss: 0.0473 - binary_crossentropy: 0.0473 - acc: 0.9827
+Epoch 148/150 - loss: 0.0276 - binary_crossentropy: 0.0276 - acc: 0.9898
+Epoch 149/150 - loss: 0.0193 - binary_crossentropy: 0.0193 - acc: 0.9923
+Epoch 150/150 - loss: 0.0156 - binary_crossentropy: 0.0156 - acc: 0.9938
+Epoch 150, lr: 0.00016000
+
+.Epoch 151/155 - loss: 0.0815 - binary_crossentropy: 0.0815 - acc: 0.9696
+Epoch 152/155 - loss: 0.0524 - binary_crossentropy: 0.0524 - acc: 0.9808
+Epoch 153/155 - loss: 0.0403 - binary_crossentropy: 0.0403 - acc: 0.9858
+Epoch 154/155 - loss: 0.0304 - binary_crossentropy: 0.0304 - acc: 0.9889
+Epoch 155/155 - loss: 0.0265 - binary_crossentropy: 0.0265 - acc: 0.9903
+Epoch 155, lr: 0.00016000
+
+.Epoch 156/160 - loss: 0.0744 - binary_crossentropy: 0.0744 - acc: 0.9729
+Epoch 157/160 - loss: 0.0372 - binary_crossentropy: 0.0372 - acc: 0.9862
+Epoch 158/160 - loss: 0.0196 - binary_crossentropy: 0.0196 - acc: 0.9928
+Epoch 159/160 - loss: 0.0134 - binary_crossentropy: 0.0134 - acc: 0.9953
+Epoch 160/160 - loss: 0.0106 - binary_crossentropy: 0.0106 - acc: 0.9961
+Epoch 160, lr: 0.00016000
+
+
+Epoch===================================================================>200.Epoch 161/165 - loss: 0.0732 - binary_crossentropy: 0.0732 - acc: 0.9738
+Epoch 162/165 - loss: 0.0466 - binary_crossentropy: 0.0466 - acc: 0.9833
+Epoch 163/165 - loss: 0.0379 - binary_crossentropy: 0.0379 - acc: 0.9870
+Epoch 164/165 - loss: 0.0281 - binary_crossentropy: 0.0281 - acc: 0.9896
+Epoch 165/165 - loss: 0.0218 - binary_crossentropy: 0.0218 - acc: 0.9920
+Epoch 165, lr: 0.00004000
+
+.Epoch 166/170 - loss: 0.0578 - binary_crossentropy: 0.0578 - acc: 0.9801
+Epoch 167/170 - loss: 0.0301 - binary_crossentropy: 0.0301 - acc: 0.9895
+Epoch 168/170 - loss: 0.0156 - binary_crossentropy: 0.0156 - acc: 0.9944
+Epoch 169/170 - loss: 0.0097 - binary_crossentropy: 0.0097 - acc: 0.9967
+Epoch 170/170 - loss: 0.0073 - binary_crossentropy: 0.0073 - acc: 0.9976
+Epoch 170, lr: 0.00004000
+
+.Epoch 171/175 - loss: 0.0611 - binary_crossentropy: 0.0611 - acc: 0.9773
+Epoch 172/175 - loss: 0.0415 - binary_crossentropy: 0.0415 - acc: 0.9857
+Epoch 173/175 - loss: 0.0262 - binary_crossentropy: 0.0262 - acc: 0.9908
+Epoch 174/175 - loss: 0.0191 - binary_crossentropy: 0.0191 - acc: 0.9934
+Epoch 175/175 - loss: 0.0153 - binary_crossentropy: 0.0153 - acc: 0.9945
+Epoch 175, lr: 0.00004000
+
+.Epoch 176/180 - loss: 0.0570 - binary_crossentropy: 0.0570 - acc: 0.9810
+Epoch 177/180 - loss: 0.0296 - binary_crossentropy: 0.0296 - acc: 0.9892
+Epoch 178/180 - loss: 0.0173 - binary_crossentropy: 0.0173 - acc: 0.9940
+Epoch 179/180 - loss: 0.0109 - binary_crossentropy: 0.0109 - acc: 0.9960
+Epoch 180/180 - loss: 0.0075 - binary_crossentropy: 0.0075 - acc: 0.9975
+Epoch 180, lr: 0.00004000
+
+.Epoch 181/185 - loss: 0.0595 - binary_crossentropy: 0.0595 - acc: 0.9790
+Epoch 182/185 - loss: 0.0365 - binary_crossentropy: 0.0365 - acc: 0.9877
+Epoch 183/185 - loss: 0.0227 - binary_crossentropy: 0.0227 - acc: 0.9914
+Epoch 184/185 - loss: 0.0160 - binary_crossentropy: 0.0160 - acc: 0.9943
+Epoch 185/185 - loss: 0.0123 - binary_crossentropy: 0.0123 - acc: 0.9952
+Epoch 185, lr: 0.00004000
+
+.Epoch 186/190 - loss: 0.0508 - binary_crossentropy: 0.0508 - acc: 0.9829
+Epoch 187/190 - loss: 0.0296 - binary_crossentropy: 0.0296 - acc: 0.9891
+Epoch 188/190 - loss: 0.0168 - binary_crossentropy: 0.0168 - acc: 0.9940
+Epoch 189/190 - loss: 0.0106 - binary_crossentropy: 0.0106 - acc: 0.9960
+Epoch 190/190 - loss: 0.0067 - binary_crossentropy: 0.0067 - acc: 0.9977
+Epoch 190, lr: 0.00004000
+
+.Epoch 191/195 - loss: 0.0542 - binary_crossentropy: 0.0542 - acc: 0.9819
+Epoch 192/195 - loss: 0.0346 - binary_crossentropy: 0.0346 - acc: 0.9873
+Epoch 193/195 - loss: 0.0232 - binary_crossentropy: 0.0232 - acc: 0.9914
+Epoch 194/195 - loss: 0.0175 - binary_crossentropy: 0.0175 - acc: 0.9937
+Epoch 195/195 - loss: 0.0145 - binary_crossentropy: 0.0145 - acc: 0.9947
+Epoch 195, lr: 0.00004000
+
+.Epoch 196/200 - loss: 0.0484 - binary_crossentropy: 0.0484 - acc: 0.9825
+Epoch 197/200 - loss: 0.0264 - binary_crossentropy: 0.0264 - acc: 0.9917
+Epoch 198/200 - loss: 0.0141 - binary_crossentropy: 0.0141 - acc: 0.9949
+Epoch 199/200 - loss: 0.0078 - binary_crossentropy: 0.0078 - acc: 0.9974
+Epoch 200/200 - loss: 0.0059 - binary_crossentropy: 0.0059 - acc: 0.9981
+Epoch 200, lr: 0.00004000
+
+
+Epoch===================================================================>210.Epoch 201/205 - loss: 0.0567 - binary_crossentropy: 0.0567 - acc: 0.9816
+Epoch 202/205 - loss: 0.0339 - binary_crossentropy: 0.0339 - acc: 0.9886
+Epoch 203/205 - loss: 0.0208 - binary_crossentropy: 0.0208 - acc: 0.9927
+Epoch 204/205 - loss: 0.0152 - binary_crossentropy: 0.0152 - acc: 0.9946
+Epoch 205/205 - loss: 0.0121 - binary_crossentropy: 0.0121 - acc: 0.9959
+Epoch 205, lr: 0.00001000
+
+.Epoch 206/210 - loss: 0.0449 - binary_crossentropy: 0.0449 - acc: 0.9851
+Epoch 207/210 - loss: 0.0257 - binary_crossentropy: 0.0257 - acc: 0.9910
+Epoch 208/210 - loss: 0.0141 - binary_crossentropy: 0.0141 - acc: 0.9950
+Epoch 209/210 - loss: 0.0081 - binary_crossentropy: 0.0081 - acc: 0.9973
+Epoch 210/210 - loss: 0.0056 - binary_crossentropy: 0.0056 - acc: 0.9979
+Epoch 210, lr: 0.00001000
+
+.Epoch 211/215 - loss: 0.0508 - binary_crossentropy: 0.0508 - acc: 0.9824
+Epoch 212/215 - loss: 0.0279 - binary_crossentropy: 0.0279 - acc: 0.9902
+Epoch 213/215 - loss: 0.0170 - binary_crossentropy: 0.0170 - acc: 0.9944
+Epoch 214/215 - loss: 0.0106 - binary_crossentropy: 0.0106 - acc: 0.9968
+Epoch 215/215 - loss: 0.0082 - binary_crossentropy: 0.0082 - acc: 0.9972
+Epoch 215, lr: 0.00001000
+
+.Epoch 216/220 - loss: 0.0509 - binary_crossentropy: 0.0509 - acc: 0.9819
+Epoch 217/220 - loss: 0.0255 - binary_crossentropy: 0.0255 - acc: 0.9906
+Epoch 218/220 - loss: 0.0147 - binary_crossentropy: 0.0147 - acc: 0.9950
+Epoch 219/220 - loss: 0.0098 - binary_crossentropy: 0.0098 - acc: 0.9968
+Epoch 220/220 - loss: 0.0064 - binary_crossentropy: 0.0064 - acc: 0.9981
+Epoch 220, lr: 0.00001000
+
+.Epoch 221/225 - loss: 0.0475 - binary_crossentropy: 0.0475 - acc: 0.9841
+Epoch 222/225 - loss: 0.0269 - binary_crossentropy: 0.0269 - acc: 0.9909
+Epoch 223/225 - loss: 0.0153 - binary_crossentropy: 0.0153 - acc: 0.9943
+Epoch 224/225 - loss: 0.0113 - binary_crossentropy: 0.0113 - acc: 0.9959
+Epoch 225/225 - loss: 0.0079 - binary_crossentropy: 0.0079 - acc: 0.9971
+Epoch 225, lr: 0.00001000
+
+.Epoch 226/230 - loss: 0.0498 - binary_crossentropy: 0.0498 - acc: 0.9829
+Epoch 227/230 - loss: 0.0239 - binary_crossentropy: 0.0239 - acc: 0.9915
+Epoch 228/230 - loss: 0.0141 - binary_crossentropy: 0.0141 - acc: 0.9946
+Epoch 229/230 - loss: 0.0086 - binary_crossentropy: 0.0086 - acc: 0.9965
+Epoch 230/230 - loss: 0.0070 - binary_crossentropy: 0.0070 - acc: 0.9975
+Epoch 230, lr: 0.00001000
+
+.Epoch 231/235 - loss: 0.0457 - binary_crossentropy: 0.0457 - acc: 0.9841
+Epoch 232/235 - loss: 0.0268 - binary_crossentropy: 0.0268 - acc: 0.9910
+Epoch 233/235 - loss: 0.0170 - binary_crossentropy: 0.0170 - acc: 0.9940
+Epoch 234/235 - loss: 0.0099 - binary_crossentropy: 0.0099 - acc: 0.9964
+Epoch 235/235 - loss: 0.0066 - binary_crossentropy: 0.0066 - acc: 0.9981
+Epoch 235, lr: 0.00001000
+
+.Epoch 236/240 - loss: 0.0453 - binary_crossentropy: 0.0453 - acc: 0.9859
+Epoch 237/240 - loss: 0.0253 - binary_crossentropy: 0.0253 - acc: 0.9909
+Epoch 238/240 - loss: 0.0132 - binary_crossentropy: 0.0132 - acc: 0.9956
+Epoch 239/240 - loss: 0.0087 - binary_crossentropy: 0.0087 - acc: 0.9972
+Epoch 240/240 - loss: 0.0054 - binary_crossentropy: 0.0054 - acc: 0.9982
+Epoch 240, lr: 0.00001000
+
+.Epoch 241/245 - loss: 0.0466 - binary_crossentropy: 0.0466 - acc: 0.9847
+Epoch 242/245 - loss: 0.0258 - binary_crossentropy: 0.0258 - acc: 0.9906
+Epoch 243/245 - loss: 0.0159 - binary_crossentropy: 0.0159 - acc: 0.9947
+Epoch 244/245 - loss: 0.0091 - binary_crossentropy: 0.0091 - acc: 0.9971
+Epoch 245/245 - loss: 0.0072 - binary_crossentropy: 0.0072 - acc: 0.9977
+Epoch 245, lr: 0.00001000
+
+.Epoch 246/250 - loss: 0.0396 - binary_crossentropy: 0.0396 - acc: 0.9860
+Epoch 247/250 - loss: 0.0230 - binary_crossentropy: 0.0230 - acc: 0.9920
+Epoch 248/250 - loss: 0.0133 - binary_crossentropy: 0.0133 - acc: 0.9951
+Epoch 249/250 - loss: 0.0091 - binary_crossentropy: 0.0091 - acc: 0.9963
+Epoch 250/250 - loss: 0.0065 - binary_crossentropy: 0.0065 - acc: 0.9974
+Epoch 250, lr: 0.00001000
+
+
+Epoch===================================================================>300.Epoch 251/255 - loss: 16.2830 - binary_crossentropy: 0.1254 - acc: 0.9510
+Epoch 252/255 - loss: 4.3609 - binary_crossentropy: 0.1443 - acc: 0.9425
+Epoch 253/255 - loss: 2.0447 - binary_crossentropy: 0.1708 - acc: 0.9311
+Epoch 254/255 - loss: 1.2849 - binary_crossentropy: 0.1869 - acc: 0.9248
+Epoch 255/255 - loss: 0.9644 - binary_crossentropy: 0.2023 - acc: 0.9173
+Epoch 255, lr: 0.00064000
+
+.Epoch 256/260 - loss: 1.0842 - binary_crossentropy: 0.4397 - acc: 0.7974
+Epoch 257/260 - loss: 0.9608 - binary_crossentropy: 0.3807 - acc: 0.8326
+Epoch 258/260 - loss: 0.8917 - binary_crossentropy: 0.3639 - acc: 0.8399
+Epoch 259/260 - loss: 0.8367 - binary_crossentropy: 0.3476 - acc: 0.8465
+Epoch 260/260 - loss: 0.7975 - binary_crossentropy: 0.3390 - acc: 0.8498
+Epoch 260, lr: 0.00064000
+
+.Epoch 261/265 - loss: 0.8175 - binary_crossentropy: 0.3820 - acc: 0.8276
+Epoch 262/265 - loss: 0.7487 - binary_crossentropy: 0.3369 - acc: 0.8515
+Epoch 263/265 - loss: 0.7118 - binary_crossentropy: 0.3233 - acc: 0.8612
+Epoch 264/265 - loss: 0.6926 - binary_crossentropy: 0.3205 - acc: 0.8614
+Epoch 265/265 - loss: 0.6616 - binary_crossentropy: 0.3070 - acc: 0.8669
+Epoch 265, lr: 0.00064000
+
+.Epoch 266/270 - loss: 0.7559 - binary_crossentropy: 0.4019 - acc: 0.8180
+Epoch 267/270 - loss: 0.7030 - binary_crossentropy: 0.3501 - acc: 0.8426
+Epoch 268/270 - loss: 0.6697 - binary_crossentropy: 0.3239 - acc: 0.8584
+Epoch 269/270 - loss: 0.6465 - binary_crossentropy: 0.3126 - acc: 0.8655
+Epoch 270/270 - loss: 0.6380 - binary_crossentropy: 0.3114 - acc: 0.8659
+Epoch 270, lr: 0.00064000
+
+.Epoch 271/275 - loss: 0.6479 - binary_crossentropy: 0.3292 - acc: 0.8545
+Epoch 272/275 - loss: 0.5969 - binary_crossentropy: 0.2888 - acc: 0.8778
+Epoch 273/275 - loss: 0.5830 - binary_crossentropy: 0.2846 - acc: 0.8766
+Epoch 274/275 - loss: 0.5632 - binary_crossentropy: 0.2742 - acc: 0.8831
+Epoch 275/275 - loss: 0.5498 - binary_crossentropy: 0.2671 - acc: 0.8866
+Epoch 275, lr: 0.00064000
+
+.Epoch 276/280 - loss: 0.6884 - binary_crossentropy: 0.3974 - acc: 0.8201
+Epoch 277/280 - loss: 0.6256 - binary_crossentropy: 0.3335 - acc: 0.8541
+Epoch 278/280 - loss: 0.6049 - binary_crossentropy: 0.3157 - acc: 0.8608
+Epoch 279/280 - loss: 0.5871 - binary_crossentropy: 0.3007 - acc: 0.8711
+Epoch 280/280 - loss: 0.5747 - binary_crossentropy: 0.2933 - acc: 0.8725
+Epoch 280, lr: 0.00064000
+
+.Epoch 281/285 - loss: 0.6075 - binary_crossentropy: 0.3261 - acc: 0.8593
+Epoch 282/285 - loss: 0.5677 - binary_crossentropy: 0.2897 - acc: 0.8750
+Epoch 283/285 - loss: 0.5440 - binary_crossentropy: 0.2727 - acc: 0.8854
+Epoch 284/285 - loss: 0.5304 - binary_crossentropy: 0.2644 - acc: 0.8879
+Epoch 285/285 - loss: 0.5174 - binary_crossentropy: 0.2583 - acc: 0.8906
+Epoch 285, lr: 0.00064000
+
+.Epoch 286/290 - loss: 0.6183 - binary_crossentropy: 0.3561 - acc: 0.8440
+Epoch 287/290 - loss: 0.5626 - binary_crossentropy: 0.3012 - acc: 0.8711
+Epoch 288/290 - loss: 0.5455 - binary_crossentropy: 0.2862 - acc: 0.8796
+Epoch 289/290 - loss: 0.5309 - binary_crossentropy: 0.2741 - acc: 0.8829
+Epoch 290/290 - loss: 0.5191 - binary_crossentropy: 0.2646 - acc: 0.8890
+Epoch 290, lr: 0.00064000
+
+.Epoch 291/295 - loss: 0.5820 - binary_crossentropy: 0.3274 - acc: 0.8584
+Epoch 292/295 - loss: 0.5382 - binary_crossentropy: 0.2884 - acc: 0.8780
+Epoch 293/295 - loss: 0.5323 - binary_crossentropy: 0.2837 - acc: 0.8789
+Epoch 294/295 - loss: 0.5114 - binary_crossentropy: 0.2673 - acc: 0.8871
+Epoch 295/295 - loss: 0.5016 - binary_crossentropy: 0.2602 - acc: 0.8900
+Epoch 295, lr: 0.00064000
+
+.Epoch 296/300 - loss: 0.5797 - binary_crossentropy: 0.3355 - acc: 0.8511
+Epoch 297/300 - loss: 0.5343 - binary_crossentropy: 0.2898 - acc: 0.8744
+Epoch 298/300 - loss: 0.5122 - binary_crossentropy: 0.2719 - acc: 0.8868
+Epoch 299/300 - loss: 0.5055 - binary_crossentropy: 0.2669 - acc: 0.8885
+Epoch 300/300 - loss: 0.4975 - binary_crossentropy: 0.2612 - acc: 0.8913
+Epoch 300, lr: 0.00064000
+
+
+Epoch===================================================================>350.Epoch 301/305 - loss: 0.5386 - binary_crossentropy: 0.3092 - acc: 0.8686
+Epoch 302/305 - loss: 0.4332 - binary_crossentropy: 0.2152 - acc: 0.9157
+Epoch 303/305 - loss: 0.3965 - binary_crossentropy: 0.1878 - acc: 0.9269
+Epoch 304/305 - loss: 0.3741 - binary_crossentropy: 0.1732 - acc: 0.9317
+Epoch 305/305 - loss: 0.3559 - binary_crossentropy: 0.1616 - acc: 0.9363
+Epoch 305, lr: 0.00016000
+
+.Epoch 306/310 - loss: 0.4748 - binary_crossentropy: 0.2847 - acc: 0.8820
+Epoch 307/310 - loss: 0.4223 - binary_crossentropy: 0.2365 - acc: 0.9023
+Epoch 308/310 - loss: 0.3948 - binary_crossentropy: 0.2130 - acc: 0.9122
+Epoch 309/310 - loss: 0.3678 - binary_crossentropy: 0.1897 - acc: 0.9228
+Epoch 310/310 - loss: 0.3543 - binary_crossentropy: 0.1796 - acc: 0.9293
+Epoch 310, lr: 0.00016000
+
+.Epoch 311/315 - loss: 0.4458 - binary_crossentropy: 0.2733 - acc: 0.8870
+Epoch 312/315 - loss: 0.3819 - binary_crossentropy: 0.2121 - acc: 0.9153
+Epoch 313/315 - loss: 0.3558 - binary_crossentropy: 0.1888 - acc: 0.9237
+Epoch 314/315 - loss: 0.3364 - binary_crossentropy: 0.1721 - acc: 0.9282
+Epoch 315/315 - loss: 0.3207 - binary_crossentropy: 0.1589 - acc: 0.9351
+Epoch 315, lr: 0.00016000
+
+.Epoch 316/320 - loss: 0.4200 - binary_crossentropy: 0.2597 - acc: 0.8921
+Epoch 317/320 - loss: 0.3675 - binary_crossentropy: 0.2089 - acc: 0.9168
+Epoch 318/320 - loss: 0.3416 - binary_crossentropy: 0.1849 - acc: 0.9263
+Epoch 319/320 - loss: 0.3272 - binary_crossentropy: 0.1722 - acc: 0.9298
+Epoch 320/320 - loss: 0.3175 - binary_crossentropy: 0.1643 - acc: 0.9342
+Epoch 320, lr: 0.00016000
+
+.Epoch 321/325 - loss: 0.4007 - binary_crossentropy: 0.2484 - acc: 0.8985
+Epoch 322/325 - loss: 0.3450 - binary_crossentropy: 0.1941 - acc: 0.9228
+Epoch 323/325 - loss: 0.3204 - binary_crossentropy: 0.1710 - acc: 0.9324
+Epoch 324/325 - loss: 0.3148 - binary_crossentropy: 0.1667 - acc: 0.9328
+Epoch 325/325 - loss: 0.2947 - binary_crossentropy: 0.1481 - acc: 0.9406
+Epoch 325, lr: 0.00016000
+
+.Epoch 326/330 - loss: 0.3892 - binary_crossentropy: 0.2431 - acc: 0.9017
+Epoch 327/330 - loss: 0.3312 - binary_crossentropy: 0.1862 - acc: 0.9247
+Epoch 328/330 - loss: 0.3132 - binary_crossentropy: 0.1694 - acc: 0.9325
+Epoch 329/330 - loss: 0.3005 - binary_crossentropy: 0.1578 - acc: 0.9365
+Epoch 330/330 - loss: 0.2924 - binary_crossentropy: 0.1508 - acc: 0.9386
+Epoch 330, lr: 0.00016000
+
+.Epoch 331/335 - loss: 0.3679 - binary_crossentropy: 0.2265 - acc: 0.9083
+Epoch 332/335 - loss: 0.3248 - binary_crossentropy: 0.1843 - acc: 0.9271
+Epoch 333/335 - loss: 0.2968 - binary_crossentropy: 0.1572 - acc: 0.9372
+Epoch 334/335 - loss: 0.2826 - binary_crossentropy: 0.1438 - acc: 0.9413
+Epoch 335/335 - loss: 0.2776 - binary_crossentropy: 0.1397 - acc: 0.9444
+Epoch 335, lr: 0.00016000
+
+.Epoch 336/340 - loss: 0.3600 - binary_crossentropy: 0.2221 - acc: 0.9103
+Epoch 337/340 - loss: 0.3116 - binary_crossentropy: 0.1743 - acc: 0.9304
+Epoch 338/340 - loss: 0.2968 - binary_crossentropy: 0.1603 - acc: 0.9351
+Epoch 339/340 - loss: 0.2801 - binary_crossentropy: 0.1443 - acc: 0.9432
+Epoch 340/340 - loss: 0.2793 - binary_crossentropy: 0.1442 - acc: 0.9420
+Epoch 340, lr: 0.00016000
+
+.Epoch 341/345 - loss: 0.3489 - binary_crossentropy: 0.2136 - acc: 0.9143
+Epoch 342/345 - loss: 0.3078 - binary_crossentropy: 0.1730 - acc: 0.9321
+Epoch 343/345 - loss: 0.2886 - binary_crossentropy: 0.1545 - acc: 0.9392
+Epoch 344/345 - loss: 0.2719 - binary_crossentropy: 0.1387 - acc: 0.9452
+Epoch 345/345 - loss: 0.2665 - binary_crossentropy: 0.1340 - acc: 0.9455
+Epoch 345, lr: 0.00016000
+
+.Epoch 346/350 - loss: 0.3565 - binary_crossentropy: 0.2235 - acc: 0.9104
+Epoch 347/350 - loss: 0.3019 - binary_crossentropy: 0.1694 - acc: 0.9329
+Epoch 348/350 - loss: 0.2851 - binary_crossentropy: 0.1531 - acc: 0.9389
+Epoch 349/350 - loss: 0.2759 - binary_crossentropy: 0.1444 - acc: 0.9434
+Epoch 350/350 - loss: 0.2653 - binary_crossentropy: 0.1343 - acc: 0.9469
+Epoch 350, lr: 0.00016000
+
+
+Epoch===================================================================>390.Epoch 351/355 - loss: 0.3535 - binary_crossentropy: 0.2232 - acc: 0.9111
+Epoch 352/355 - loss: 0.2862 - binary_crossentropy: 0.1567 - acc: 0.9383
+Epoch 353/355 - loss: 0.2599 - binary_crossentropy: 0.1311 - acc: 0.9486
+Epoch 354/355 - loss: 0.2452 - binary_crossentropy: 0.1172 - acc: 0.9543
+Epoch 355/355 - loss: 0.2292 - binary_crossentropy: 0.1020 - acc: 0.9605
+Epoch 355, lr: 0.00004000
+
+.Epoch 356/360 - loss: 0.3328 - binary_crossentropy: 0.2063 - acc: 0.9179
+Epoch 357/360 - loss: 0.2759 - binary_crossentropy: 0.1499 - acc: 0.9410
+Epoch 358/360 - loss: 0.2515 - binary_crossentropy: 0.1262 - acc: 0.9496
+Epoch 359/360 - loss: 0.2347 - binary_crossentropy: 0.1100 - acc: 0.9553
+Epoch 360/360 - loss: 0.2210 - binary_crossentropy: 0.0971 - acc: 0.9616
+Epoch 360, lr: 0.00004000
+
+.Epoch 361/365 - loss: 0.3091 - binary_crossentropy: 0.1857 - acc: 0.9253
+Epoch 362/365 - loss: 0.2664 - binary_crossentropy: 0.1434 - acc: 0.9424
+Epoch 363/365 - loss: 0.2415 - binary_crossentropy: 0.1191 - acc: 0.9531
+Epoch 364/365 - loss: 0.2248 - binary_crossentropy: 0.1030 - acc: 0.9587
+Epoch 365/365 - loss: 0.2146 - binary_crossentropy: 0.0934 - acc: 0.9620
+Epoch 365, lr: 0.00004000
+
+.Epoch 366/370 - loss: 0.2935 - binary_crossentropy: 0.1727 - acc: 0.9312
+Epoch 367/370 - loss: 0.2579 - binary_crossentropy: 0.1375 - acc: 0.9454
+Epoch 368/370 - loss: 0.2330 - binary_crossentropy: 0.1130 - acc: 0.9541
+Epoch 369/370 - loss: 0.2170 - binary_crossentropy: 0.0976 - acc: 0.9606
+Epoch 370/370 - loss: 0.2052 - binary_crossentropy: 0.0864 - acc: 0.9643
+Epoch 370, lr: 0.00004000
+
+.Epoch 371/375 - loss: 0.2869 - binary_crossentropy: 0.1685 - acc: 0.9339
+Epoch 372/375 - loss: 0.2516 - binary_crossentropy: 0.1335 - acc: 0.9461
+Epoch 373/375 - loss: 0.2284 - binary_crossentropy: 0.1107 - acc: 0.9557
+Epoch 374/375 - loss: 0.2124 - binary_crossentropy: 0.0951 - acc: 0.9609
+Epoch 375/375 - loss: 0.2025 - binary_crossentropy: 0.0857 - acc: 0.9647
+Epoch 375, lr: 0.00004000
+
+.Epoch 376/380 - loss: 0.2777 - binary_crossentropy: 0.1613 - acc: 0.9353
+Epoch 377/380 - loss: 0.2434 - binary_crossentropy: 0.1274 - acc: 0.9487
+Epoch 378/380 - loss: 0.2235 - binary_crossentropy: 0.1078 - acc: 0.9574
+Epoch 379/380 - loss: 0.2042 - binary_crossentropy: 0.0890 - acc: 0.9647
+Epoch 380/380 - loss: 0.1970 - binary_crossentropy: 0.0822 - acc: 0.9667
+Epoch 380, lr: 0.00004000
+
+.Epoch 381/385 - loss: 0.2728 - binary_crossentropy: 0.1583 - acc: 0.9380
+Epoch 382/385 - loss: 0.2397 - binary_crossentropy: 0.1255 - acc: 0.9502
+Epoch 383/385 - loss: 0.2222 - binary_crossentropy: 0.1084 - acc: 0.9571
+Epoch 384/385 - loss: 0.2047 - binary_crossentropy: 0.0912 - acc: 0.9628
+Epoch 385/385 - loss: 0.1991 - binary_crossentropy: 0.0860 - acc: 0.9658
+Epoch 385, lr: 0.00004000
+
+.Epoch 386/390 - loss: 0.2681 - binary_crossentropy: 0.1553 - acc: 0.9397
+Epoch 387/390 - loss: 0.2239 - binary_crossentropy: 0.1115 - acc: 0.9562
+Epoch 388/390 - loss: 0.2103 - binary_crossentropy: 0.0981 - acc: 0.9604
+Epoch 389/390 - loss: 0.1940 - binary_crossentropy: 0.0822 - acc: 0.9670
+Epoch 390/390 - loss: 0.1869 - binary_crossentropy: 0.0754 - acc: 0.9699
+Epoch 390, lr: 0.00004000
+
+
+Epoch===================================================================>400.Epoch 391/395 - loss: 0.2740 - binary_crossentropy: 0.1628 - acc: 0.9364
+Epoch 392/395 - loss: 0.2303 - binary_crossentropy: 0.1193 - acc: 0.9533
+Epoch 393/395 - loss: 0.2076 - binary_crossentropy: 0.0967 - acc: 0.9608
+Epoch 394/395 - loss: 0.1893 - binary_crossentropy: 0.0785 - acc: 0.9685
+Epoch 395/395 - loss: 0.1800 - binary_crossentropy: 0.0693 - acc: 0.9725
+Epoch 395, lr: 0.00001000
+
+.Epoch 396/400 - loss: 0.2530 - binary_crossentropy: 0.1425 - acc: 0.9441
+Epoch 397/400 - loss: 0.2184 - binary_crossentropy: 0.1080 - acc: 0.9582
+Epoch 398/400 - loss: 0.1977 - binary_crossentropy: 0.0874 - acc: 0.9644
+Epoch 399/400 - loss: 0.1851 - binary_crossentropy: 0.0749 - acc: 0.9703
+Epoch 400/400 - loss: 0.1744 - binary_crossentropy: 0.0644 - acc: 0.9741
+Epoch 400, lr: 0.00001000
+
+.Epoch 401/405 - loss: 0.2539 - binary_crossentropy: 0.1439 - acc: 0.9428
+Epoch 402/405 - loss: 0.2193 - binary_crossentropy: 0.1095 - acc: 0.9560
+Epoch 403/405 - loss: 0.1987 - binary_crossentropy: 0.0890 - acc: 0.9640
+Epoch 404/405 - loss: 0.1886 - binary_crossentropy: 0.0790 - acc: 0.9674
+Epoch 405/405 - loss: 0.1803 - binary_crossentropy: 0.0708 - acc: 0.9724
+Epoch 405, lr: 0.00001000
+
+.Epoch 406/410 - loss: 0.2497 - binary_crossentropy: 0.1404 - acc: 0.9468
+Epoch 407/410 - loss: 0.2160 - binary_crossentropy: 0.1068 - acc: 0.9584
+Epoch 408/410 - loss: 0.1944 - binary_crossentropy: 0.0853 - acc: 0.9651
+Epoch 409/410 - loss: 0.1814 - binary_crossentropy: 0.0724 - acc: 0.9706
+Epoch 410/410 - loss: 0.1719 - binary_crossentropy: 0.0631 - acc: 0.9741
+Epoch 410, lr: 0.00001000
+
+.Epoch 411/415 - loss: 0.2459 - binary_crossentropy: 0.1372 - acc: 0.9469
+Epoch 412/415 - loss: 0.2122 - binary_crossentropy: 0.1035 - acc: 0.9597
+Epoch 413/415 - loss: 0.1943 - binary_crossentropy: 0.0857 - acc: 0.9660
+Epoch 414/415 - loss: 0.1781 - binary_crossentropy: 0.0697 - acc: 0.9729
+Epoch 415/415 - loss: 0.1709 - binary_crossentropy: 0.0626 - acc: 0.9747
+Epoch 415, lr: 0.00001000
+
+.Epoch 416/420 - loss: 0.2414 - binary_crossentropy: 0.1332 - acc: 0.9481
+Epoch 417/420 - loss: 0.2076 - binary_crossentropy: 0.0995 - acc: 0.9615
+Epoch 418/420 - loss: 0.1906 - binary_crossentropy: 0.0827 - acc: 0.9671
+Epoch 419/420 - loss: 0.1765 - binary_crossentropy: 0.0686 - acc: 0.9727
+Epoch 420/420 - loss: 0.1694 - binary_crossentropy: 0.0617 - acc: 0.9752
+Epoch 420, lr: 0.00001000
+
+.Epoch 421/425 - loss: 0.2408 - binary_crossentropy: 0.1332 - acc: 0.9514
+Epoch 422/425 - loss: 0.2048 - binary_crossentropy: 0.0973 - acc: 0.9620
+Epoch 423/425 - loss: 0.1842 - binary_crossentropy: 0.0768 - acc: 0.9692
+Epoch 424/425 - loss: 0.1739 - binary_crossentropy: 0.0666 - acc: 0.9737
+Epoch 425/425 - loss: 0.1662 - binary_crossentropy: 0.0590 - acc: 0.9761
+Epoch 425, lr: 0.00001000
+
+.Epoch 426/430 - loss: 0.2290 - binary_crossentropy: 0.1220 - acc: 0.9522
+Epoch 427/430 - loss: 0.2070 - binary_crossentropy: 0.1000 - acc: 0.9613
+Epoch 428/430 - loss: 0.1877 - binary_crossentropy: 0.0808 - acc: 0.9687
+Epoch 429/430 - loss: 0.1742 - binary_crossentropy: 0.0674 - acc: 0.9741
+Epoch 430/430 - loss: 0.1658 - binary_crossentropy: 0.0592 - acc: 0.9761
+Epoch 430, lr: 0.00001000
+
+.Epoch 431/435 - loss: 0.2363 - binary_crossentropy: 0.1298 - acc: 0.9492
+Epoch 432/435 - loss: 0.2021 - binary_crossentropy: 0.0957 - acc: 0.9625
+Epoch 433/435 - loss: 0.1813 - binary_crossentropy: 0.0750 - acc: 0.9709
+Epoch 434/435 - loss: 0.1694 - binary_crossentropy: 0.0632 - acc: 0.9752
+Epoch 435/435 - loss: 0.1612 - binary_crossentropy: 0.0551 - acc: 0.9774
+Epoch 435, lr: 0.00001000
+
+.Epoch 436/440 - loss: 0.2353 - binary_crossentropy: 0.1293 - acc: 0.9502
+Epoch 437/440 - loss: 0.2021 - binary_crossentropy: 0.0962 - acc: 0.9616
+Epoch 438/440 - loss: 0.1824 - binary_crossentropy: 0.0766 - acc: 0.9704
+Epoch 439/440 - loss: 0.1693 - binary_crossentropy: 0.0636 - acc: 0.9747
+Epoch 440/440 - loss: 0.1625 - binary_crossentropy: 0.0570 - acc: 0.9767
+Epoch 440, lr: 0.00001000
+
+
+Epoch===================================================================>450
+.Epoch 441/445 - loss: 0.2274 - binary_crossentropy: 0.1220 - acc: 0.9542
+Epoch 442/445 - loss: 0.1993 - binary_crossentropy: 0.0939 - acc: 0.9634
+Epoch 443/445 - loss: 0.1779 - binary_crossentropy: 0.0726 - acc: 0.9719
+Epoch 444/445 - loss: 0.1688 - binary_crossentropy: 0.0636 - acc: 0.9750
+Epoch 445/445 - loss: 0.1633 - binary_crossentropy: 0.0582 - acc: 0.9770
+Epoch 445, lr: 0.00001000
+
+.Epoch 446/450 - loss: 0.2284 - binary_crossentropy: 0.1234 - acc: 0.9535
+Epoch 447/450 - loss: 0.1956 - binary_crossentropy: 0.0907 - acc: 0.9657
+Epoch 448/450 - loss: 0.1786 - binary_crossentropy: 0.0738 - acc: 0.9710
+Epoch 449/450 - loss: 0.1649 - binary_crossentropy: 0.0603 - acc: 0.9764
+Epoch 450/450 - loss: 0.1565 - binary_crossentropy: 0.0519 - acc: 0.9790
+Epoch 450, lr: 0.00001000
+
